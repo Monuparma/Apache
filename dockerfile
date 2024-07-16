@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN touch file1 file2 aws
+RUN touch file1 file3 aws
